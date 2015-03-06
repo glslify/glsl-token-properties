@@ -1,6 +1,6 @@
 {
   "name": "glsl-token-properties",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Takes an array of GLSL tokens and determines whether or not they're a property of another identifier",
   "main": "index.js",
   "license": "MIT",
